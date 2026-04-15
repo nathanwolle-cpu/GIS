@@ -1,0 +1,7757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.541826532957444,
+          32.967746423540895
+        ]
+      },
+      "properties": {
+        "id": "2787273997",
+        "name": "1",
+        "heb_name": "ראש פינה",
+        "eng_name": "ROSH PINNA",
+        "muni_mirror": "Rosh Pina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60218964133691,
+          33.056598766164036
+        ]
+      },
+      "properties": {
+        "id": "2787274025",
+        "name": "2",
+        "heb_name": "יסוד המעלה",
+        "eng_name": "YESUD HAMA'ALA",
+        "muni_mirror": "Yesud Hama'ala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.00284521568714,
+          32.600064391770296
+        ]
+      },
+      "properties": {
+        "id": "2787281055",
+        "name": "3",
+        "heb_name": "בת שלמה",
+        "eng_name": "BAT SHELOMO",
+        "muni_mirror": "Katserin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.618961960405144,
+          33.01876478387755
+        ]
+      },
+      "properties": {
+        "id": "2787279565",
+        "name": "4",
+        "heb_name": "גדות",
+        "eng_name": "GADOT",
+        "muni_mirror": "Buk'ata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57635619976863,
+          33.27825624450034
+        ]
+      },
+      "properties": {
+        "id": "2787279093",
+        "name": "5",
+        "heb_name": "מטולה",
+        "eng_name": "METULA",
+        "muni_mirror": "Metula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50289985607223,
+          32.708501612303785
+        ]
+      },
+      "properties": {
+        "id": "2787279026",
+        "name": "6",
+        "heb_name": "יבנאל",
+        "eng_name": "YAVNE'EL",
+        "muni_mirror": "Majdel Shams"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41974197337127,
+          32.68667913648165
+        ]
+      },
+      "properties": {
+        "id": "2787279346",
+        "name": "7",
+        "heb_name": "כפר תבור",
+        "eng_name": "KEFAR TAVOR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55430042835146,
+          32.66569089688333
+        ]
+      },
+      "properties": {
+        "id": "2787279127",
+        "name": "8",
+        "heb_name": "מנחמיה",
+        "eng_name": "MENAHEMYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40662895379687,
+          32.75393236925617
+        ]
+      },
+      "properties": {
+        "id": "2787274095",
+        "name": "9",
+        "heb_name": "אילנייה",
+        "eng_name": "ILANIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.942572312035985,
+          32.69157675591566
+        ]
+      },
+      "properties": {
+        "id": "2787278898",
+        "name": "10",
+        "heb_name": "עתלית",
+        "eng_name": "ATLIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5608959624048,
+          32.71319237692768
+        ]
+      },
+      "properties": {
+        "id": "2787278928",
+        "name": "11",
+        "heb_name": "כנרת (קבוצה)",
+        "eng_name": "KINNERET(QEVUZA)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.508935301468675,
+          32.789712412595996
+        ]
+      },
+      "properties": {
+        "id": "2787272499",
+        "name": "12",
+        "heb_name": "מצפה",
+        "eng_name": "MIZPA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57407756613915,
+          32.70763579002716
+        ]
+      },
+      "properties": {
+        "id": "2787279057",
+        "name": "13",
+        "heb_name": "דגניה א'",
+        "eng_name": "DEGANYA ALEF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56385186002515,
+          32.7241847324844
+        ]
+      },
+      "properties": {
+        "id": "2787270670",
+        "name": "14",
+        "heb_name": "כנרת (מושבה)",
+        "eng_name": "KINNERET(MOSHAVA)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50263885528145,
+          32.8382476450893
+        ]
+      },
+      "properties": {
+        "id": "2787274655",
+        "name": "15",
+        "heb_name": "מגדל",
+        "eng_name": "MIGDAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30648466445482,
+          32.605901832331654
+        ]
+      },
+      "properties": {
+        "id": "2787274207",
+        "name": "16",
+        "heb_name": "מרחביה (קיבוץ)",
+        "eng_name": "MERHAVYA(QIBBUZ)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.98238098168292,
+          32.69942632112612
+        ]
+      },
+      "properties": {
+        "id": "2787279061",
+        "name": "17",
+        "heb_name": "עין הוד",
+        "eng_name": "EN HOD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57373603365032,
+          33.24229820374503
+        ]
+      },
+      "properties": {
+        "id": "2787278953",
+        "name": "18",
+        "heb_name": "כפר גלעדי",
+        "eng_name": "KEFAR GIL'ADI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57547483404696,
+          33.023319750763214
+        ]
+      },
+      "properties": {
+        "id": "2787281440",
+        "name": "19",
+        "heb_name": "איילת השחר",
+        "eng_name": "AYYELET HASHAHAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57439778622321,
+          32.69994329520372
+        ]
+      },
+      "properties": {
+        "id": "2787274134",
+        "name": "20",
+        "heb_name": "דגניה ב'",
+        "eng_name": "DEGANYA BET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.195990707233086,
+          32.690046514784164
+        ]
+      },
+      "properties": {
+        "id": "2787287629",
+        "name": "21",
+        "heb_name": "נהלל",
+        "eng_name": "NAHALAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39084528908304,
+          32.55800436240141
+        ]
+      },
+      "properties": {
+        "id": "2787287355",
+        "name": "22",
+        "heb_name": "עין חרוד (מאוחד)",
+        "eng_name": "EN HAROD(ME'UHAD)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39887968767059,
+          32.555873125919796
+        ]
+      },
+      "properties": {
+        "id": "2787284208",
+        "name": "23",
+        "heb_name": "תל יוסף",
+        "eng_name": "TEL YOSEF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35899182140504,
+          32.56677631019353
+        ]
+      },
+      "properties": {
+        "id": "2787284014",
+        "name": "24",
+        "heb_name": "כפר יחזקאל",
+        "eng_name": "KEFAR YEHEZQEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37137469595307,
+          32.56592187195658
+        ]
+      },
+      "properties": {
+        "id": "2787284760",
+        "name": "25",
+        "heb_name": "גבע",
+        "eng_name": "GEVA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.390440890781875,
+          32.56327107773904
+        ]
+      },
+      "properties": {
+        "id": "2787289514",
+        "name": "26",
+        "heb_name": "עין חרוד (איחוד)",
+        "eng_name": "EN HAROD (IHUD)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.256479183823416,
+          32.66358867028718
+        ]
+      },
+      "properties": {
+        "id": "2787284257",
+        "name": "27",
+        "heb_name": "גיניגר",
+        "eng_name": "GINNEGAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.295802297429496,
+          32.62980577767416
+        ]
+      },
+      "properties": {
+        "id": "2787284529",
+        "name": "28",
+        "heb_name": "בלפוריה",
+        "eng_name": "BALFURYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07650917356629,
+          32.741505266482875
+        ]
+      },
+      "properties": {
+        "id": "2787289345",
+        "name": "29",
+        "heb_name": "יגור",
+        "eng_name": "YAGUR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31585653711329,
+          32.60341412547016
+        ]
+      },
+      "properties": {
+        "id": "2787289631",
+        "name": "30",
+        "heb_name": "מרחביה (מושב)",
+        "eng_name": "MERHAVYA(MOSHAV)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97060228067854,
+          32.59086499283607
+        ]
+      },
+      "properties": {
+        "id": "2787283817",
+        "name": "31",
+        "heb_name": "מאיר שפיה",
+        "eng_name": "ME'IR SHEFEYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30192586218964,
+          32.655851923865605
+        ]
+      },
+      "properties": {
+        "id": "2787283961",
+        "name": "32",
+        "heb_name": "תל עדשים",
+        "eng_name": "TEL ADASHIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.285687006227306,
+          32.65056135823266
+        ]
+      },
+      "properties": {
+        "id": "2787287533",
+        "name": "33",
+        "heb_name": "מזרע",
+        "eng_name": "MIZRA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29059406595221,
+          32.64369598911123
+        ]
+      },
+      "properties": {
+        "id": "2787283964",
+        "name": "34",
+        "heb_name": "כפר גדעון",
+        "eng_name": "KEFAR GID'ON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09204371058157,
+          32.750149503314795
+        ]
+      },
+      "properties": {
+        "id": "2787289543",
+        "name": "35",
+        "heb_name": "כפר חסידים א'",
+        "eng_name": "KEFAR HASIDIM ALEF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27126485581142,
+          32.54864748851093
+        ]
+      },
+      "properties": {
+        "id": "2787289667",
+        "name": "36",
+        "heb_name": "אדירים",
+        "eng_name": "ADDIRIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16488024902769,
+          32.702475188835734
+        ]
+      },
+      "properties": {
+        "id": "2787289608",
+        "name": "37",
+        "heb_name": "רמת ישי",
+        "eng_name": "RAMAT YISHAY",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22518064243007,
+          32.662714040919575
+        ]
+      },
+      "properties": {
+        "id": "2787287537",
+        "name": "38",
+        "heb_name": "שריד",
+        "eng_name": "SARID",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.141685093676735,
+          32.60986805152402
+        ]
+      },
+      "properties": {
+        "id": "2787284074",
+        "name": "39",
+        "heb_name": "משמר העמק",
+        "eng_name": "MISHMAR HAEMEQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19030349654198,
+          32.645753568080295
+        ]
+      },
+      "properties": {
+        "id": "2787284064",
+        "name": "40",
+        "heb_name": "כפר ברוך",
+        "eng_name": "KEFAR BARUKH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2117711899265,
+          32.67442885941242
+        ]
+      },
+      "properties": {
+        "id": "2787272527",
+        "name": "41",
+        "heb_name": "גבת",
+        "eng_name": "GEVAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22418159745956,
+          32.6764293417372
+        ]
+      },
+      "properties": {
+        "id": "2787274024",
+        "name": "42",
+        "heb_name": "יפעת",
+        "eng_name": "YIF'AT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2010775880744,
+          32.67786456640839
+        ]
+      },
+      "properties": {
+        "id": "2787278912",
+        "name": "43",
+        "heb_name": "רמת דוד",
+        "eng_name": "RAMAT DAWID",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.151625215020125,
+          32.68212760438599
+        ]
+      },
+      "properties": {
+        "id": "2787272603",
+        "name": "44",
+        "heb_name": "כפר יהושע",
+        "eng_name": "KEFAR YEHOSHUA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26414882899983,
+          32.54243810183908
+        ]
+      },
+      "properties": {
+        "id": "2787272604",
+        "name": "45",
+        "heb_name": "ברק",
+        "eng_name": "BARAQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14066373046038,
+          32.697866456850356
+        ]
+      },
+      "properties": {
+        "id": "2787274161",
+        "name": "46",
+        "heb_name": "שדה יעקב",
+        "eng_name": "SEDE YA'AQOV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57270869426106,
+          32.68855068476286
+        ]
+      },
+      "properties": {
+        "id": "2787274027",
+        "name": "47",
+        "heb_name": "בית זרע",
+        "eng_name": "BET ZERA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.244120390874464,
+          32.558532969119234
+        ]
+      },
+      "properties": {
+        "id": "2787270689",
+        "name": "48",
+        "heb_name": "גדיש",
+        "eng_name": "GADISH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26330367769865,
+          32.55243875208063
+        ]
+      },
+      "properties": {
+        "id": "2787274094",
+        "name": "49",
+        "heb_name": "דבורה",
+        "eng_name": "DEVORA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23681768640028,
+          32.56316095408794
+        ]
+      },
+      "properties": {
+        "id": "2787274192",
+        "name": "50",
+        "heb_name": "מלאה",
+        "eng_name": "MELE'A",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24448694034842,
+          32.56874047958182
+        ]
+      },
+      "properties": {
+        "id": "2787272144",
+        "name": "51",
+        "heb_name": "ניר יפה",
+        "eng_name": "NIR YAFE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57732532657351,
+          32.68073727228873
+        ]
+      },
+      "properties": {
+        "id": "2787279095",
+        "name": "52",
+        "heb_name": "אפיקים",
+        "eng_name": "AFIQIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12144367514677,
+          32.793129595807656
+        ]
+      },
+      "properties": {
+        "id": "2787272559",
+        "name": "53",
+        "heb_name": "רמת יוחנן",
+        "eng_name": "RAMAT YOHANAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.58278840308581,
+          32.66146039162746
+        ]
+      },
+      "properties": {
+        "id": "2787272536",
+        "name": "54",
+        "heb_name": "אשדות יעקב (מאוחד)",
+        "eng_name": "ASHDOT YA'AQOV(ME'UHAD)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.272305518294424,
+          32.700560517036195
+        ]
+      },
+      "properties": {
+        "id": "2787272560",
+        "name": "55",
+        "heb_name": "כפר החורש",
+        "eng_name": "KEFAR HAHORESH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.579585746328426,
+          32.65778200153737
+        ]
+      },
+      "properties": {
+        "id": "2787279320",
+        "name": "56",
+        "heb_name": "אשדות יעקב (איחוד)",
+        "eng_name": "ASHDOT YA'AQOV(IHUD)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96897676309922,
+          32.7193567027431
+        ]
+      },
+      "properties": {
+        "id": "2787279032",
+        "name": "57",
+        "heb_name": "בית צבי",
+        "eng_name": "BET ZEVI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08571796391742,
+          32.82103540976832
+        ]
+      },
+      "properties": {
+        "id": "2787274194",
+        "name": "58",
+        "heb_name": "כפר ביאליק",
+        "eng_name": "KEFAR BIALIK",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1119938616138,
+          32.722717811161154
+        ]
+      },
+      "properties": {
+        "id": "2787279034",
+        "name": "59",
+        "heb_name": "שער העמקים",
+        "eng_name": "SHA'AR HAAMAQIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09344224296837,
+          32.64626430193747
+        ]
+      },
+      "properties": {
+        "id": "2787270597",
+        "name": "60",
+        "heb_name": "יקנעם עילית",
+        "eng_name": "YOQNE'AM ILLIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11423878942713,
+          32.65436039946819
+        ]
+      },
+      "properties": {
+        "id": "2787270724",
+        "name": "61",
+        "heb_name": "יקנעם (מושבה)",
+        "eng_name": "YOQNE'AM(MOSHAVA)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43910506103182,
+          32.55156636184748
+        ]
+      },
+      "properties": {
+        "id": "2787280959",
+        "name": "62",
+        "heb_name": "בית השיטה",
+        "eng_name": "BET HASHITTA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.177509248045645,
+          32.696319835220386
+        ]
+      },
+      "properties": {
+        "id": "2787270312",
+        "name": "63",
+        "heb_name": "בית שערים",
+        "eng_name": "BET SHE'ARIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.118736503198114,
+          32.643642088856986
+        ]
+      },
+      "properties": {
+        "id": "2787272518",
+        "name": "64",
+        "heb_name": "הזורע",
+        "eng_name": "HAZOREA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.609167632827294,
+          33.05123853226191
+        ]
+      },
+      "properties": {
+        "id": "2787279091",
+        "name": "65",
+        "heb_name": "חולתה",
+        "eng_name": "HULATA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11524455777655,
+          32.78970788525056
+        ]
+      },
+      "properties": {
+        "id": "2787279092",
+        "name": "66",
+        "heb_name": "כפר המכבי",
+        "eng_name": "KEFAR HAMAKKABBI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.502033164859924,
+          32.800738699415746
+        ]
+      },
+      "properties": {
+        "id": "2787270712",
+        "name": "67",
+        "heb_name": "כפר חיטים",
+        "eng_name": "KEFAR HITTIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09581670996016,
+          32.9027737902575
+        ]
+      },
+      "properties": {
+        "id": "2787272208",
+        "name": "68",
+        "heb_name": "עין המפרץ",
+        "eng_name": "EN HAMIFRAZ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.93995098388617,
+          32.56780112259868
+        ]
+      },
+      "properties": {
+        "id": "2787272377",
+        "name": "69",
+        "heb_name": "מעיין צבי",
+        "eng_name": "MA'YAN ZEVI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46572773327047,
+          32.72579814598556
+        ]
+      },
+      "properties": {
+        "id": "2787272556",
+        "name": "70",
+        "heb_name": "שרונה",
+        "eng_name": "SHARONA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21613966243037,
+          33.062921637234915
+        ]
+      },
+      "properties": {
+        "id": "2787278897",
+        "name": "71",
+        "heb_name": "אילון",
+        "eng_name": "ELON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09955147345289,
+          32.889991083468566
+        ]
+      },
+      "properties": {
+        "id": "2787274623",
+        "name": "72",
+        "heb_name": "כפר מסריק",
+        "eng_name": "KEFAR MASARYK",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.074190927409376,
+          32.58931086897466
+        ]
+      },
+      "properties": {
+        "id": "2787274029",
+        "name": "73",
+        "heb_name": "דלייה",
+        "eng_name": "DALIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.63780531606002,
+          33.229594974890496
+        ]
+      },
+      "properties": {
+        "id": "2787274311",
+        "name": "74",
+        "heb_name": "דפנה",
+        "eng_name": "DAFNA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65210426183415,
+          33.23977780547136
+        ]
+      },
+      "properties": {
+        "id": "2787274375",
+        "name": "75",
+        "heb_name": "דן",
+        "eng_name": "DAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.550490040475495,
+          32.62019187530957
+        ]
+      },
+      "properties": {
+        "id": "2787274654",
+        "name": "76",
+        "heb_name": "גשר",
+        "eng_name": "GESHER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43533359732026,
+          32.6959210239495
+        ]
+      },
+      "properties": {
+        "id": "2787270674",
+        "name": "77",
+        "heb_name": "שדמות דבורה",
+        "eng_name": "SHADMOT DEVORA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50172184881832,
+          32.74563663332457
+        ]
+      },
+      "properties": {
+        "id": "2787278874",
+        "name": "78",
+        "heb_name": "הזורעים",
+        "eng_name": "HAZORE'IM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56941341721267,
+          32.98870476013686
+        ]
+      },
+      "properties": {
+        "id": "2787270829",
+        "name": "79",
+        "heb_name": "מחניים",
+        "eng_name": "MAHANAYIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35562717452278,
+          32.54156791998829
+        ]
+      },
+      "properties": {
+        "id": "2787274538",
+        "name": "80",
+        "heb_name": "נורית",
+        "eng_name": "NURIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.544207430632994,
+          33.21450390657623
+        ]
+      },
+      "properties": {
+        "id": "2787280882",
+        "name": "81",
+        "heb_name": "מרגליות",
+        "eng_name": "MARGALIYYOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43548212749144,
+          32.94324639337594
+        ]
+      },
+      "properties": {
+        "id": "2787278909",
+        "name": "82",
+        "heb_name": "שפר",
+        "eng_name": "SHEFER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.646190363527644,
+          33.12398408402047
+        ]
+      },
+      "properties": {
+        "id": "2787272602",
+        "name": "83",
+        "heb_name": "גונן",
+        "eng_name": "GONEN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.562750921543774,
+          33.045023785095694
+        ]
+      },
+      "properties": {
+        "id": "2787270313",
+        "name": "84",
+        "heb_name": "שדה אליעזר",
+        "eng_name": "SEDE ELI'EZER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44129037051939,
+          32.787045253477984
+        ]
+      },
+      "properties": {
+        "id": "2787281057",
+        "name": "85",
+        "heb_name": "לביא",
+        "eng_name": "LAVI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17897130263727,
+          32.580042944434894
+        ]
+      },
+      "properties": {
+        "id": "2787272376",
+        "name": "86",
+        "heb_name": "מגידו",
+        "eng_name": "MEGIDDO",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.134184475428654,
+          33.0708189320558
+        ]
+      },
+      "properties": {
+        "id": "2787279066",
+        "name": "87",
+        "heb_name": "בצת",
+        "eng_name": "BEZET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.552540981169265,
+          32.588472681076254
+        ]
+      },
+      "properties": {
+        "id": "2787274163",
+        "name": "88",
+        "heb_name": "נווה אור",
+        "eng_name": "NEWE UR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09729349909823,
+          32.963367961457315
+        ]
+      },
+      "properties": {
+        "id": "2787274310",
+        "name": "89",
+        "heb_name": "לוחמי הגיטאות",
+        "eng_name": "LOHAME HAGETA'OT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.51000176860796,
+          33.10037245020195
+        ]
+      },
+      "properties": {
+        "id": "2787278917",
+        "name": "90",
+        "heb_name": "מלכייה",
+        "eng_name": "MALKIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.431324613520026,
+          32.931577290398636
+        ]
+      },
+      "properties": {
+        "id": "2787279094",
+        "name": "91",
+        "heb_name": "פרוד",
+        "eng_name": "PAROD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.323137339895204,
+          33.03292153405817
+        ]
+      },
+      "properties": {
+        "id": "2787270784",
+        "name": "92",
+        "heb_name": "אלקוש",
+        "eng_name": "ELQOSH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4564895375542,
+          32.956388280420235
+        ]
+      },
+      "properties": {
+        "id": "2787272534",
+        "name": "93",
+        "heb_name": "כפר שמאי",
+        "eng_name": "KEFAR SHAMMAY",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11265846609839,
+          32.76115810095254
+        ]
+      },
+      "properties": {
+        "id": "2787270794",
+        "name": "94",
+        "heb_name": "אבטין",
+        "eng_name": "IBTIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14742807683896,
+          32.993192241488245
+        ]
+      },
+      "properties": {
+        "id": "2787279058",
+        "name": "95",
+        "heb_name": "שייח' דנון",
+        "eng_name": "SHEIKH DANNUN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29599704154969,
+          32.997427668247
+        ]
+      },
+      "properties": {
+        "id": "2787272383",
+        "name": "96",
+        "heb_name": "חוסן",
+        "eng_name": "HOSEN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46652674093741,
+          33.037779194093744
+        ]
+      },
+      "properties": {
+        "id": "2787274102",
+        "name": "97",
+        "heb_name": "כרם בן זמרה",
+        "eng_name": "KEREM BEN ZIMRA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.433456836047625,
+          33.05762670116744
+        ]
+      },
+      "properties": {
+        "id": "2787279148",
+        "name": "98",
+        "heb_name": "ברעם",
+        "eng_name": "BAR'AM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11208210010377,
+          33.059560794756315
+        ]
+      },
+      "properties": {
+        "id": "2787270676",
+        "name": "99",
+        "heb_name": "לימן",
+        "eng_name": "LIMAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.93199162285783,
+          32.63620693897867
+        ]
+      },
+      "properties": {
+        "id": "2787272745",
+        "name": "100",
+        "heb_name": "הבונים",
+        "eng_name": "HABONIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23687438371723,
+          32.75030399801491
+        ]
+      },
+      "properties": {
+        "id": "2787270725",
+        "name": "101",
+        "heb_name": "הסוללים",
+        "eng_name": "HASOLELIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59958293947995,
+          32.70625056856943
+        ]
+      },
+      "properties": {
+        "id": "2787270726",
+        "name": "102",
+        "heb_name": "מעגן",
+        "eng_name": "MA'AGAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.992534559884405,
+          32.531678177215994
+        ]
+      },
+      "properties": {
+        "id": "2787272205",
+        "name": "103",
+        "heb_name": "אביאל",
+        "eng_name": "AVI'EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0665953279403,
+          32.631774057637124
+        ]
+      },
+      "properties": {
+        "id": "2787273973",
+        "name": "104",
+        "heb_name": "אליקים",
+        "eng_name": "ELYAQIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95406418552674,
+          32.66221336711645
+        ]
+      },
+      "properties": {
+        "id": "2787270810",
+        "name": "105",
+        "heb_name": "גבע כרמל",
+        "eng_name": "GEVA KARMEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.204105869753974,
+          32.611470804975845
+        ]
+      },
+      "properties": {
+        "id": "2787272493",
+        "name": "106",
+        "heb_name": "היוגב",
+        "eng_name": "HAYOGEV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.945429889171265,
+          32.62884128294804
+        ]
+      },
+      "properties": {
+        "id": "2787274805",
+        "name": "107",
+        "heb_name": "עין איילה",
+        "eng_name": "EN AYYALA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.499145405745814,
+          33.05081656546341
+        ]
+      },
+      "properties": {
+        "id": "2787280888",
+        "name": "108",
+        "heb_name": "עלמה",
+        "eng_name": "ALMA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95837841035538,
+          32.72939038281679
+        ]
+      },
+      "properties": {
+        "id": "2787272548",
+        "name": "109",
+        "heb_name": "מגדים",
+        "eng_name": "MEGADIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.91500808041491,
+          32.555599854421054
+        ]
+      },
+      "properties": {
+        "id": "2787274028",
+        "name": "110",
+        "heb_name": "מעגן מיכאל",
+        "eng_name": "MA'AGAN MIKHA'EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48338516039037,
+          32.81221509964511
+        ]
+      },
+      "properties": {
+        "id": "2787272454",
+        "name": "111",
+        "heb_name": "ארבל",
+        "eng_name": "ARBEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62120229882211,
+          32.72483681928316
+        ]
+      },
+      "properties": {
+        "id": "2787272378",
+        "name": "112",
+        "heb_name": "האון",
+        "eng_name": "HAON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19784552637143,
+          32.554508275112056
+        ]
+      },
+      "properties": {
+        "id": "2787279053",
+        "name": "113",
+        "heb_name": "גבעת עוז",
+        "eng_name": "GIV'AT OZ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16120554704958,
+          32.978807081463536
+        ]
+      },
+      "properties": {
+        "id": "2787272211",
+        "name": "114",
+        "heb_name": "עמקה",
+        "eng_name": "AMQA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.122872035071076,
+          33.005197869573344
+        ]
+      },
+      "properties": {
+        "id": "2787278884",
+        "name": "115",
+        "heb_name": "בן עמי",
+        "eng_name": "BEN AMMI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61682945372468,
+          32.7041391716039
+        ]
+      },
+      "properties": {
+        "id": "2787279031",
+        "name": "116",
+        "heb_name": "תל קציר",
+        "eng_name": "TEL QAZIR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42262153009105,
+          32.74826990631693
+        ]
+      },
+      "properties": {
+        "id": "2787279322",
+        "name": "117",
+        "heb_name": "שדה אילן",
+        "eng_name": "SEDE ILAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.546626326389415,
+          32.94755398383514
+        ]
+      },
+      "properties": {
+        "id": "2787272392",
+        "name": "118",
+        "heb_name": "אליפלט",
+        "eng_name": "ELIFELET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5984552510511,
+          33.0042152781253
+        ]
+      },
+      "properties": {
+        "id": "2787270796",
+        "name": "119",
+        "heb_name": "משמר הירדן",
+        "eng_name": "MISHMAR HAYARDEN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.92101054857131,
+          32.60720131535257
+        ]
+      },
+      "properties": {
+        "id": "2787278934",
+        "name": "120",
+        "heb_name": "דור",
+        "eng_name": "DOR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23562600732869,
+          33.056227964838634
+        ]
+      },
+      "properties": {
+        "id": "2787284187",
+        "name": "121",
+        "heb_name": "גורן",
+        "eng_name": "GOREN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.989772066189154,
+          32.6991596620552
+        ]
+      },
+      "properties": {
+        "id": "2787284207",
+        "name": "122",
+        "heb_name": "ניר עציון",
+        "eng_name": "NIR EZYON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.02017881463181,
+          32.56277746062879
+        ]
+      },
+      "properties": {
+        "id": "2787287527",
+        "name": "123",
+        "heb_name": "עמיקם",
+        "eng_name": "AMMIQAM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31305337491415,
+          33.0064036558203
+        ]
+      },
+      "properties": {
+        "id": "2787283720",
+        "name": "124",
+        "heb_name": "צוריאל",
+        "eng_name": "ZURI'EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.172389294180626,
+          32.907424521731556
+        ]
+      },
+      "properties": {
+        "id": "2787284042",
+        "name": "125",
+        "heb_name": "אחיהוד",
+        "eng_name": "AHIHUD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46274284925749,
+          32.81151998375489
+        ]
+      },
+      "properties": {
+        "id": "2787284002",
+        "name": "126",
+        "heb_name": "כפר זיתים",
+        "eng_name": "KEFAR ZETIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.13496262703979,
+          32.993654788877045
+        ]
+      },
+      "properties": {
+        "id": "2787283958",
+        "name": "127",
+        "heb_name": "נתיב השיירה",
+        "eng_name": "NETIV HASHAYYARA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.184839087214705,
+          33.066815804441305
+        ]
+      },
+      "properties": {
+        "id": "2787283960",
+        "name": "128",
+        "heb_name": "יערה",
+        "eng_name": "YA'ARA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.92503921922313,
+          32.52767786426515
+        ]
+      },
+      "properties": {
+        "id": "2787289377",
+        "name": "129",
+        "heb_name": "בית חנניה",
+        "eng_name": "BET HANANYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.98129388498423,
+          32.62195787982286
+        ]
+      },
+      "properties": {
+        "id": "2787287532",
+        "name": "130",
+        "heb_name": "עופר",
+        "eng_name": "OFER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14758916966019,
+          33.075496371419234
+        ]
+      },
+      "properties": {
+        "id": "2787283962",
+        "name": "131",
+        "heb_name": "שלומי",
+        "eng_name": "SHELOMI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22925279606948,
+          33.00936979932776
+        ]
+      },
+      "properties": {
+        "id": "2787284118",
+        "name": "132",
+        "heb_name": "עין יעקב",
+        "eng_name": "EN YA'AQOV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.401502270783276,
+          32.688746974267744
+        ]
+      },
+      "properties": {
+        "id": "2787287635",
+        "name": "133",
+        "heb_name": "שבלי - אום אל-גנם",
+        "eng_name": "SHIBLI-UMM AL-GHANAM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.251062090608265,
+          32.86539234191087
+        ]
+      },
+      "properties": {
+        "id": "2787289458",
+        "name": "134",
+        "heb_name": "עצמון שגב",
+        "eng_name": "ATSMON SEGEV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10052532598598,
+          32.751374131289374
+        ]
+      },
+      "properties": {
+        "id": "2787289678",
+        "name": "135",
+        "heb_name": "רכסים",
+        "eng_name": "REKHASIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16746644638303,
+          32.76699327182381
+        ]
+      },
+      "properties": {
+        "id": "2787289670",
+        "name": "136",
+        "heb_name": "סואעד (חמרייה)*",
+        "eng_name": "SAWA'ID(HAMRIYYE)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14811308505999,
+          32.73965533328284
+        ]
+      },
+      "properties": {
+        "id": "2787283990",
+        "name": "137",
+        "heb_name": "בסמת טבעון",
+        "eng_name": "BASMAT TAB'UN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59073946765318,
+          32.96480056980084
+        ]
+      },
+      "properties": {
+        "id": "2787284269",
+        "name": "138",
+        "heb_name": "טובא-זנגרייה",
+        "eng_name": "TUBA-ZANGARIYYE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22173863597917,
+          32.72452713532553
+        ]
+      },
+      "properties": {
+        "id": "2787289674",
+        "name": "139",
+        "heb_name": "זרזיר",
+        "eng_name": "ZARZIR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18461034463352,
+          32.74966638204005
+        ]
+      },
+      "properties": {
+        "id": "2787284134",
+        "name": "140",
+        "heb_name": "כעביה-טבאש-חג'אג'רה",
+        "eng_name": "KA'ABIYYE-TABBASH-HAJAJRE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15399496768794,
+          32.771911868649354
+        ]
+      },
+      "properties": {
+        "id": "2787274158",
+        "name": "141",
+        "heb_name": "ראס עלי",
+        "eng_name": "RAS ALI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48927036625984,
+          32.8294872935958
+        ]
+      },
+      "properties": {
+        "id": "2787274159",
+        "name": "142",
+        "heb_name": "חמאם",
+        "eng_name": "HAMAM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19290690986399,
+          32.706204991692395
+        ]
+      },
+      "properties": {
+        "id": "2787274170",
+        "name": "143",
+        "heb_name": "מנשית זבדה",
+        "eng_name": "MANSHIYYET ZABDA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30411791206243,
+          32.77722956371923
+        ]
+      },
+      "properties": {
+        "id": "2787278893",
+        "name": "144",
+        "heb_name": "רומת הייב",
+        "eng_name": "RUMAT HEIB",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2215896218896,
+          32.78219129064053
+        ]
+      },
+      "properties": {
+        "id": "2787280885",
+        "name": "145",
+        "heb_name": "ביר אל-מכסור",
+        "eng_name": "BIR EL-MAKSUR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31346029811766,
+          33.08489312674656
+        ]
+      },
+      "properties": {
+        "id": "2787274616",
+        "name": "146",
+        "heb_name": "שתולה",
+        "eng_name": "SHETULA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.394179105015766,
+          32.906130636269246
+        ]
+      },
+      "properties": {
+        "id": "2787272450",
+        "name": "147",
+        "heb_name": "חזון",
+        "eng_name": "HAZON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32267373049209,
+          32.70817872474932
+        ]
+      },
+      "properties": {
+        "id": "2787273593",
+        "name": "148",
+        "heb_name": "נוף הגליל",
+        "eng_name": "NOF HAGALIL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27693240741671,
+          33.01424730750947
+        ]
+      },
+      "properties": {
+        "id": "2787279386",
+        "name": "149",
+        "heb_name": "מעלות-תרשיחא",
+        "eng_name": "MA'ALOT-TARSHIHA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45083101230836,
+          32.936824195237676
+        ]
+      },
+      "properties": {
+        "id": "2787272549",
+        "name": "150",
+        "heb_name": "אמירים",
+        "eng_name": "AMIRIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.406513509090765,
+          33.05140670152714
+        ]
+      },
+      "properties": {
+        "id": "2787270823",
+        "name": "151",
+        "heb_name": "דוב\"ב",
+        "eng_name": "DOVEV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20787363369377,
+          33.078899561429374
+        ]
+      },
+      "properties": {
+        "id": "2787274164",
+        "name": "152",
+        "heb_name": "אדמית",
+        "eng_name": "ADAMIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.259007921858554,
+          32.52653377821606
+        ]
+      },
+      "properties": {
+        "id": "2787270668",
+        "name": "153",
+        "heb_name": "רם-און",
+        "eng_name": "RAM-ON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.293216654492646,
+          33.073863848417034
+        ]
+      },
+      "properties": {
+        "id": "2787279070",
+        "name": "154",
+        "heb_name": "אבן מנחם",
+        "eng_name": "EVEN MENAHEM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54599721850315,
+          32.71923017152857
+        ]
+      },
+      "properties": {
+        "id": "2787272381",
+        "name": "155",
+        "heb_name": "פורייה - כפר עבודה",
+        "eng_name": "PORIYYA-KEFAR AVODA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3272915271512,
+          32.95627548869081
+        ]
+      },
+      "properties": {
+        "id": "2787279130",
+        "name": "156",
+        "heb_name": "חרשים",
+        "eng_name": "HARASHIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.509930770027495,
+          32.89031140525389
+        ]
+      },
+      "properties": {
+        "id": "2787279166",
+        "name": "157",
+        "heb_name": "כחל",
+        "eng_name": "KAHAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.47354169228112,
+          32.897671556331254
+        ]
+      },
+      "properties": {
+        "id": "2787278952",
+        "name": "158",
+        "heb_name": "קדרים",
+        "eng_name": "QADDARIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52404992502468,
+          32.997719516110486
+        ]
+      },
+      "properties": {
+        "id": "2787272638",
+        "name": "159",
+        "heb_name": "עמוקה",
+        "eng_name": "AMUQQA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.415475330078486,
+          33.02460346085326
+        ]
+      },
+      "properties": {
+        "id": "2787279392",
+        "name": "160",
+        "heb_name": "צבעון",
+        "eng_name": "ZIV'ON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42145064984355,
+          32.868116352084385
+        ]
+      },
+      "properties": {
+        "id": "2787284528",
+        "name": "161",
+        "heb_name": "טפחות",
+        "eng_name": "TEFAHOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.248487116710265,
+          33.05961434520739
+        ]
+      },
+      "properties": {
+        "id": "2787283668",
+        "name": "162",
+        "heb_name": "גורנות הגליל",
+        "eng_name": "GORNOT HAGALIL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.286158340815255,
+          33.03817185100833
+        ]
+      },
+      "properties": {
+        "id": "2787283887",
+        "name": "163",
+        "heb_name": "אבירים",
+        "eng_name": "ABBIRIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2509317307359,
+          32.90227141488385
+        ]
+      },
+      "properties": {
+        "id": "2787284189",
+        "name": "164",
+        "heb_name": "צורית",
+        "eng_name": "ZURIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19961889814228,
+          32.83642952403539
+        ]
+      },
+      "properties": {
+        "id": "2787287583",
+        "name": "165",
+        "heb_name": "מצפה אבי\"ב",
+        "eng_name": "MIZPE AVIV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46363545073606,
+          32.85048023195837
+        ]
+      },
+      "properties": {
+        "id": "2787289395",
+        "name": "166",
+        "heb_name": "רביד",
+        "eng_name": "RAVID",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26950183516974,
+          32.8782422113446
+        ]
+      },
+      "properties": {
+        "id": "2787284043",
+        "name": "167",
+        "heb_name": "יובלים",
+        "eng_name": "YUVALLIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.264057606562886,
+          32.854548506095114
+        ]
+      },
+      "properties": {
+        "id": "2787283816",
+        "name": "168",
+        "heb_name": "רקפת",
+        "eng_name": "RAQQEFET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45487988683682,
+          32.87473540957336
+        ]
+      },
+      "properties": {
+        "id": "2787284046",
+        "name": "169",
+        "heb_name": "כלנית",
+        "eng_name": "KALLANIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.49385538372505,
+          32.8634343641148
+        ]
+      },
+      "properties": {
+        "id": "2787289376",
+        "name": "170",
+        "heb_name": "לבנים",
+        "eng_name": "LIVNIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25885694625943,
+          32.892773472151724
+        ]
+      },
+      "properties": {
+        "id": "2787288145",
+        "name": "171",
+        "heb_name": "שורשים",
+        "eng_name": "SHORASHIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.224518068909894,
+          32.70315614235963
+        ]
+      },
+      "properties": {
+        "id": "2787287729",
+        "name": "172",
+        "heb_name": "תמרת",
+        "eng_name": "TIMRAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.36300986229773,
+          32.89429885640539
+        ]
+      },
+      "properties": {
+        "id": "2787289633",
+        "name": "173",
+        "heb_name": "סלמה",
+        "eng_name": "SALLAMA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22497969439959,
+          33.08827517966375
+        ]
+      },
+      "properties": {
+        "id": "2787284301",
+        "name": "174",
+        "heb_name": "עראמשה*",
+        "eng_name": "ARAMSHA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.172398460830834,
+          32.76332469450318
+        ]
+      },
+      "properties": {
+        "id": "2787289634",
+        "name": "175",
+        "heb_name": "הרדוף",
+        "eng_name": "HARDUF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.550203283403256,
+          32.91038613333426
+        ]
+      },
+      "properties": {
+        "id": "2787287552",
+        "name": "176",
+        "heb_name": "כורזים",
+        "eng_name": "KORAZIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.570763761461265,
+          32.903664198567355
+        ]
+      },
+      "properties": {
+        "id": "2787287536",
+        "name": "177",
+        "heb_name": "אמנון",
+        "eng_name": "AMNUN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1561494959286,
+          32.971357394691594
+        ]
+      },
+      "properties": {
+        "id": "2787284794",
+        "name": "178",
+        "heb_name": "אשרת",
+        "eng_name": "ASHERAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24425176805257,
+          32.783466569369516
+        ]
+      },
+      "properties": {
+        "id": "2787283828",
+        "name": "179",
+        "heb_name": "חנתון",
+        "eng_name": "HANNATON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42239484005939,
+          32.84350761552125
+        ]
+      },
+      "properties": {
+        "id": "2787289545",
+        "name": "180",
+        "heb_name": "מסד",
+        "eng_name": "MASSAD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26843208900549,
+          32.995551313172186
+        ]
+      },
+      "properties": {
+        "id": "2787289510",
+        "name": "181",
+        "heb_name": "כפר ורדים",
+        "eng_name": "KEFAR WERADIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31165813904382,
+          32.94987895010845
+        ]
+      },
+      "properties": {
+        "id": "2787284758",
+        "name": "182",
+        "heb_name": "חלוץ",
+        "eng_name": "HALUZ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3374830471805,
+          32.53177751880086
+        ]
+      },
+      "properties": {
+        "id": "2787284052",
+        "name": "183",
+        "heb_name": "גן נר",
+        "eng_name": "GAN NER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.351039990391975,
+          32.836055313294274
+        ]
+      },
+      "properties": {
+        "id": "2787290199",
+        "name": "184",
+        "heb_name": "אבטליון",
+        "eng_name": "AVTALYON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.304313962287615,
+          32.87623556652499
+        ]
+      },
+      "properties": {
+        "id": "2787289331",
+        "name": "185",
+        "heb_name": "אשבל",
+        "eng_name": "ESHBAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46343163903761,
+          33.004360964876426
+        ]
+      },
+      "properties": {
+        "id": "2787289373",
+        "name": "186",
+        "heb_name": "כדיתה",
+        "eng_name": "KADDITA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59724154566885,
+          33.24631959500846
+        ]
+      },
+      "properties": {
+        "id": "2787287528",
+        "name": "187",
+        "heb_name": "יובל",
+        "eng_name": "YUVAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56397155804786,
+          32.56490549263496
+        ]
+      },
+      "properties": {
+        "id": "2787289516",
+        "name": "188",
+        "heb_name": "ירדנה",
+        "eng_name": "YARDENA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15792937419434,
+          32.59470805831704
+        ]
+      },
+      "properties": {
+        "id": "2787287550",
+        "name": "189",
+        "heb_name": "מדרך עוז",
+        "eng_name": "MIDRAKH OZ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54305879419961,
+          32.98233207986762
+        ]
+      },
+      "properties": {
+        "id": "2787287530",
+        "name": "190",
+        "heb_name": "חצור הגלילית",
+        "eng_name": "HAZOR HAGELILIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30640818532774,
+          32.55713629776674
+        ]
+      },
+      "properties": {
+        "id": "2787289346",
+        "name": "191",
+        "heb_name": "אביטל",
+        "eng_name": "AVITAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.310067868680406,
+          32.545401705985924
+        ]
+      },
+      "properties": {
+        "id": "2787287551",
+        "name": "192",
+        "heb_name": "פרזון",
+        "eng_name": "PERAZON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30010311757079,
+          32.545490832021294
+        ]
+      },
+      "properties": {
+        "id": "2787289378",
+        "name": "193",
+        "heb_name": "מיטב",
+        "eng_name": "METAV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.518270179273095,
+          33.081804924803336
+        ]
+      },
+      "properties": {
+        "id": "2787284058",
+        "name": "194",
+        "heb_name": "דישון",
+        "eng_name": "DISHON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.97055360430576,
+          32.76089220298367
+        ]
+      },
+      "properties": {
+        "id": "2787284248",
+        "name": "195",
+        "heb_name": "טירת כרמל",
+        "eng_name": "TIRAT KARMEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.125654636827846,
+          32.715071619308446
+        ]
+      },
+      "properties": {
+        "id": "2787289668",
+        "name": "196",
+        "heb_name": "קריית טבעון",
+        "eng_name": "QIRYAT TIV'ON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.040973913338014,
+          32.76813636981063
+        ]
+      },
+      "properties": {
+        "id": "2787289784",
+        "name": "197",
+        "heb_name": "נשר",
+        "eng_name": "NESHER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.57277010861787,
+          33.21151939878516
+        ]
+      },
+      "properties": {
+        "id": "2787284304",
+        "name": "198",
+        "heb_name": "קריית שמונה",
+        "eng_name": "QIRYAT SHEMONA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.008014355912856,
+          32.80326432019847
+        ]
+      },
+      "properties": {
+        "id": "2787287553",
+        "name": "199",
+        "heb_name": "חיפה",
+        "eng_name": "HAIFA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77797727460605,
+          33.20127588917753
+        ]
+      },
+      "properties": {
+        "id": "2787287611",
+        "name": "200",
+        "heb_name": "בוקעאתא",
+        "eng_name": "BUQ'ATA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.734204959057294,
+          32.80475082397719
+        ]
+      },
+      "properties": {
+        "id": "2787272734",
+        "name": "201",
+        "heb_name": "אלי-עד",
+        "eng_name": "ELI-AD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77055014989507,
+          33.180392176752754
+        ]
+      },
+      "properties": {
+        "id": "2787279343",
+        "name": "202",
+        "heb_name": "אל -רום",
+        "eng_name": "EL-ROM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66262370382505,
+          32.762383208820076
+        ]
+      },
+      "properties": {
+        "id": "2787272598",
+        "name": "203",
+        "heb_name": "כפר חרוב",
+        "eng_name": "KEFAR HARUV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.793556101494495,
+          32.845016059292185
+        ]
+      },
+      "properties": {
+        "id": "2787274171",
+        "name": "204",
+        "heb_name": "חספין",
+        "eng_name": "HASPIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80776604201437,
+          32.97948550686696
+        ]
+      },
+      "properties": {
+        "id": "2787279126",
+        "name": "205",
+        "heb_name": "קשת",
+        "eng_name": "QESHET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.79367757429856,
+          32.937652751642474
+        ]
+      },
+      "properties": {
+        "id": "2787274618",
+        "name": "206",
+        "heb_name": "יונתן",
+        "eng_name": "YONATAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.683440400261375,
+          32.88899184642002
+        ]
+      },
+      "properties": {
+        "id": "2787270782",
+        "name": "207",
+        "heb_name": "מעלה גמלא",
+        "eng_name": "MA'ALE GAMLA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7174551157296,
+          33.11611028304266
+        ]
+      },
+      "properties": {
+        "id": "2787272384",
+        "name": "208",
+        "heb_name": "שעל",
+        "eng_name": "SHA'AL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.748787750924954,
+          33.1931029879086
+        ]
+      },
+      "properties": {
+        "id": "2787274807",
+        "name": "209",
+        "heb_name": "אודם",
+        "eng_name": "ODEM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76449120861311,
+          32.82286003535388
+        ]
+      },
+      "properties": {
+        "id": "2787272530",
+        "name": "210",
+        "heb_name": "אבני איתן",
+        "eng_name": "AVNE ETAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73943169810507,
+          32.95692181114426
+        ]
+      },
+      "properties": {
+        "id": "2787279128",
+        "name": "211",
+        "heb_name": "אניעם",
+        "eng_name": "ANI'AM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75798440953902,
+          33.086570482231565
+        ]
+      },
+      "properties": {
+        "id": "2787279054",
+        "name": "212",
+        "heb_name": "אורטל",
+        "eng_name": "ORTAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.752415595173794,
+          32.85279505436458
+        ]
+      },
+      "properties": {
+        "id": "2787278899",
+        "name": "213",
+        "heb_name": "נטור",
+        "eng_name": "NATUR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.688694971725965,
+          32.797865842042256
+        ]
+      },
+      "properties": {
+        "id": "2787278929",
+        "name": "214",
+        "heb_name": "בני יהודה",
+        "eng_name": "BENE YEHUDA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.83797302733665,
+          33.04337088628118
+        ]
+      },
+      "properties": {
+        "id": "2787274376",
+        "name": "215",
+        "heb_name": "אלוני הבשן",
+        "eng_name": "ALLONE HABASHAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.735260302671044,
+          32.76672226568891
+        ]
+      },
+      "properties": {
+        "id": "2787279391",
+        "name": "216",
+        "heb_name": "מיצר",
+        "eng_name": "MEZAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68100198767303,
+          32.79869784953951
+        ]
+      },
+      "properties": {
+        "id": "2787279357",
+        "name": "217",
+        "heb_name": "גבעת יואב",
+        "eng_name": "GIV'AT YO'AV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.716293166945704,
+          32.81847679410139
+        ]
+      },
+      "properties": {
+        "id": "2787270795",
+        "name": "218",
+        "heb_name": "גשור",
+        "eng_name": "GESHUR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.683401175089365,
+          33.131222043173324
+        ]
+      },
+      "properties": {
+        "id": "2787279150",
+        "name": "219",
+        "heb_name": "קלע",
+        "eng_name": "QELA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69695872049666,
+          33.02963486493828
+        ]
+      },
+      "properties": {
+        "id": "2787272278",
+        "name": "220",
+        "heb_name": "קדמת צבי",
+        "eng_name": "QIDMAT ZEVI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.641659628659575,
+          32.927042206787014
+        ]
+      },
+      "properties": {
+        "id": "2787273589",
+        "name": "221",
+        "heb_name": "חד-נס",
+        "eng_name": "HAD-NES",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69920097647332,
+          32.8692739908099
+        ]
+      },
+      "properties": {
+        "id": "2787278911",
+        "name": "222",
+        "heb_name": "כנף",
+        "eng_name": "KANAF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7509893414078,
+          33.24538745718053
+        ]
+      },
+      "properties": {
+        "id": "2787272449",
+        "name": "223",
+        "heb_name": "נמרוד",
+        "eng_name": "NIMROD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.68610432809446,
+          32.99210520794438
+        ]
+      },
+      "properties": {
+        "id": "2787273999",
+        "name": "224",
+        "heb_name": "קצרין",
+        "eng_name": "QAZRIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.77512015540218,
+          33.13275622451722
+        ]
+      },
+      "properties": {
+        "id": "2787278895",
+        "name": "225",
+        "heb_name": "מרום גולן",
+        "eng_name": "MEROM GOLAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.76952774714313,
+          33.263237774055135
+        ]
+      },
+      "properties": {
+        "id": "2787270821",
+        "name": "226",
+        "heb_name": "מג'דל שמס",
+        "eng_name": "MAJDAL SHAMS",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75595080092429,
+          33.230669157870096
+        ]
+      },
+      "properties": {
+        "id": "2787272698",
+        "name": "227",
+        "heb_name": "מסעדה",
+        "eng_name": "MAS'ADE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.654685796835324,
+          32.73730877634588
+        ]
+      },
+      "properties": {
+        "id": "2787270690",
+        "name": "228",
+        "heb_name": "מבוא חמה",
+        "eng_name": "MEVO HAMMA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.700467038093876,
+          32.77798265061481
+        ]
+      },
+      "properties": {
+        "id": "2787278963",
+        "name": "229",
+        "heb_name": "אפיק",
+        "eng_name": "AFIQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74097157457078,
+          33.26186757178029
+        ]
+      },
+      "properties": {
+        "id": "2787274808",
+        "name": "230",
+        "heb_name": "נווה אטי\"ב",
+        "eng_name": "NEWE ATIV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.781949038488705,
+          32.832410634830595
+        ]
+      },
+      "properties": {
+        "id": "2787272535",
+        "name": "231",
+        "heb_name": "נוב",
+        "eng_name": "NOV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62269014004925,
+          33.270337041345456
+        ]
+      },
+      "properties": {
+        "id": "2787274101",
+        "name": "232",
+        "heb_name": "ע'ג'ר",
+        "eng_name": "GHAJAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73084000649863,
+          33.23672863572337
+        ]
+      },
+      "properties": {
+        "id": "2787272562",
+        "name": "233",
+        "heb_name": "עין קנייא",
+        "eng_name": "EIN QINIYYE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7953215300408,
+          33.09610978434741
+        ]
+      },
+      "properties": {
+        "id": "2787270825",
+        "name": "234",
+        "heb_name": "עין זיוון",
+        "eng_name": "EN ZIWAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.69040306887269,
+          32.786074170903184
+        ]
+      },
+      "properties": {
+        "id": "2787279033",
+        "name": "235",
+        "heb_name": "נאות גולן",
+        "eng_name": "NE'OT GOLAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80723518694664,
+          32.84441893724784
+        ]
+      },
+      "properties": {
+        "id": "2787272639",
+        "name": "236",
+        "heb_name": "רמת מגשימים",
+        "eng_name": "RAMAT MAGSHIMIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.665996843455105,
+          32.84932951046454
+        ]
+      },
+      "properties": {
+        "id": "2787274209",
+        "name": "237",
+        "heb_name": "רמות",
+        "eng_name": "RAMOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52308168493097,
+          32.787224619616346
+        ]
+      },
+      "properties": {
+        "id": "2787270813",
+        "name": "238",
+        "heb_name": "טבריה",
+        "eng_name": "TIBERIAS",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.107777928487124,
+          32.8038680446891
+        ]
+      },
+      "properties": {
+        "id": "2787270799",
+        "name": "239",
+        "heb_name": "קריית אתא",
+        "eng_name": "QIRYAT ATTA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29384913010188,
+          32.7017102343466
+        ]
+      },
+      "properties": {
+        "id": "2787279045",
+        "name": "240",
+        "heb_name": "נצרת",
+        "eng_name": "NAZARETH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.29846703630288,
+          32.86428369570005
+        ]
+      },
+      "properties": {
+        "id": "2787289329",
+        "name": "241",
+        "heb_name": "סח'נין",
+        "eng_name": "SAKHNIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.083864506304785,
+          32.928018951515924
+        ]
+      },
+      "properties": {
+        "id": "2787289649",
+        "name": "242",
+        "heb_name": "עכו",
+        "eng_name": "AKKO",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.301307843461615,
+          32.61646514511547
+        ]
+      },
+      "properties": {
+        "id": "2787287276",
+        "name": "243",
+        "heb_name": "עפולה",
+        "eng_name": "AFULA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50453604093872,
+          32.96385617586773
+        ]
+      },
+      "properties": {
+        "id": "2787287356",
+        "name": "244",
+        "heb_name": "צפת",
+        "eng_name": "ZEFAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07941800559988,
+          32.8358260857964
+        ]
+      },
+      "properties": {
+        "id": "2787289343",
+        "name": "245",
+        "heb_name": "קריית מוצקין",
+        "eng_name": "QIRYAT MOTZKIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1711872959682,
+          32.80595684930134
+        ]
+      },
+      "properties": {
+        "id": "2787287426",
+        "name": "246",
+        "heb_name": "שפרעם",
+        "eng_name": "SHEFAR'AM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18889232593625,
+          32.853804275260636
+        ]
+      },
+      "properties": {
+        "id": "2787283815",
+        "name": "247",
+        "heb_name": "טמרה",
+        "eng_name": "TAMRA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09664079814612,
+          33.00754934819099
+        ]
+      },
+      "properties": {
+        "id": "2787283889",
+        "name": "248",
+        "heb_name": "נהרייה",
+        "eng_name": "NAHARIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.951945753927895,
+          32.570098155027246
+        ]
+      },
+      "properties": {
+        "id": "2787284114",
+        "name": "249",
+        "heb_name": "זכרון יעקב",
+        "eng_name": "ZIKHRON YA'AQOV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08934823681889,
+          32.838026732876706
+        ]
+      },
+      "properties": {
+        "id": "2787284004",
+        "name": "250",
+        "heb_name": "קריית ביאליק",
+        "eng_name": "QIRYAT BIALIK",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.07134591895178,
+          32.84843243946103
+        ]
+      },
+      "properties": {
+        "id": "2787289724",
+        "name": "251",
+        "heb_name": "קריית ים",
+        "eng_name": "QIRYAT YAM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.929932518905844,
+          32.67880853499243
+        ]
+      },
+      "properties": {
+        "id": "2787288147",
+        "name": "252",
+        "heb_name": "נווה ים",
+        "eng_name": "NEWE YAM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12727630544634,
+          32.83817310687063
+        ]
+      },
+      "properties": {
+        "id": "2787283824",
+        "name": "253",
+        "heb_name": "אפק",
+        "eng_name": "AFEQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.00419483969307,
+          32.73054499253951
+        ]
+      },
+      "properties": {
+        "id": "2787289469",
+        "name": "254",
+        "heb_name": "בית אורן",
+        "eng_name": "BET OREN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61953753956098,
+          33.17782243951144
+        ]
+      },
+      "properties": {
+        "id": "2787289598",
+        "name": "255",
+        "heb_name": "עמיר",
+        "eng_name": "AMIR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60506124767454,
+          33.20807459662057
+        ]
+      },
+      "properties": {
+        "id": "2787289472",
+        "name": "256",
+        "heb_name": "בית הלל",
+        "eng_name": "BET HILLEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6457803560647,
+          33.22611371097868
+        ]
+      },
+      "properties": {
+        "id": "2787284303",
+        "name": "257",
+        "heb_name": "שאר ישוב",
+        "eng_name": "SHE'AR YASHUV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.15609973907436,
+          33.062443916966004
+        ]
+      },
+      "properties": {
+        "id": "2787289676",
+        "name": "258",
+        "heb_name": "מצובה",
+        "eng_name": "MAZZUVA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62293724261716,
+          33.18702576843506
+        ]
+      },
+      "properties": {
+        "id": "2787283905",
+        "name": "259",
+        "heb_name": "שדה נחמיה",
+        "eng_name": "SEDE NEHEMYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54569271654364,
+          32.70648989865246
+        ]
+      },
+      "properties": {
+        "id": "2787284128",
+        "name": "260",
+        "heb_name": "אלומות",
+        "eng_name": "ALUMMOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09340135665595,
+          32.610357621303415
+        ]
+      },
+      "properties": {
+        "id": "2787284186",
+        "name": "261",
+        "heb_name": "רמת השופט",
+        "eng_name": "RAMAT HASHOFET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.41318631879918,
+          32.591152920725754
+        ]
+      },
+      "properties": {
+        "id": "2787287425",
+        "name": "262",
+        "heb_name": "רמת צבי",
+        "eng_name": "RAMAT ZEVI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65731480246845,
+          33.19527261588389
+        ]
+      },
+      "properties": {
+        "id": "2787289330",
+        "name": "263",
+        "heb_name": "כפר סאלד",
+        "eng_name": "KEFAR SZOLD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54383522104775,
+          33.19587714573474
+        ]
+      },
+      "properties": {
+        "id": "2787287277",
+        "name": "264",
+        "heb_name": "מנרה",
+        "eng_name": "MENARA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.114319705690804,
+          32.70113251855743
+        ]
+      },
+      "properties": {
+        "id": "2787289393",
+        "name": "265",
+        "heb_name": "בית זיד",
+        "eng_name": "BET ZEID",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.62294566437479,
+          33.220359066394835
+        ]
+      },
+      "properties": {
+        "id": "2787289396",
+        "name": "266",
+        "heb_name": "הגושרים",
+        "eng_name": "HAGOSHERIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.608031976579355,
+          33.17293732537078
+        ]
+      },
+      "properties": {
+        "id": "2787287631",
+        "name": "267",
+        "heb_name": "כפר בלום",
+        "eng_name": "KEFAR BLUM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.040704622554394,
+          32.54739525793962
+        ]
+      },
+      "properties": {
+        "id": "2787284054",
+        "name": "268",
+        "heb_name": "גבעת ניל\"י",
+        "eng_name": "GIV'AT NILI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39335377258276,
+          32.718254494269246
+        ]
+      },
+      "properties": {
+        "id": "2787289375",
+        "name": "269",
+        "heb_name": "בית קשת",
+        "eng_name": "BET QESHET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65926718822475,
+          33.16633208535472
+        ]
+      },
+      "properties": {
+        "id": "2787289595",
+        "name": "270",
+        "heb_name": "שמיר",
+        "eng_name": "SHAMIR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08408699516437,
+          32.62841960602051
+        ]
+      },
+      "properties": {
+        "id": "2787287632",
+        "name": "271",
+        "heb_name": "עין העמק",
+        "eng_name": "EN HAEMEQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.499500919061404,
+          32.97754650632851
+        ]
+      },
+      "properties": {
+        "id": "2787283986",
+        "name": "272",
+        "heb_name": "בירייה",
+        "eng_name": "BIRIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.075739157031464,
+          32.556859146489174
+        ]
+      },
+      "properties": {
+        "id": "2787288148",
+        "name": "273",
+        "heb_name": "גלעד (אבן יצחק)",
+        "eng_name": "GAL'ED (EVEN YIZHAQ)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40507331570675,
+          32.702555552927635
+        ]
+      },
+      "properties": {
+        "id": "2787284019",
+        "name": "274",
+        "heb_name": "כדורי",
+        "eng_name": "KADOORIE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55258735549215,
+          33.10118950918579
+        ]
+      },
+      "properties": {
+        "id": "2787284264",
+        "name": "275",
+        "heb_name": "רמות נפתלי",
+        "eng_name": "RAMOT NAFTALI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.49458322118965,
+          32.88024909855859
+        ]
+      },
+      "properties": {
+        "id": "2787289776",
+        "name": "276",
+        "heb_name": "חוקוק",
+        "eng_name": "HUQOQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09978455973396,
+          32.991502291817774
+        ]
+      },
+      "properties": {
+        "id": "2787287492",
+        "name": "277",
+        "heb_name": "עברון",
+        "eng_name": "EVRON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.547768352034595,
+          33.24739464974593
+        ]
+      },
+      "properties": {
+        "id": "2787289349",
+        "name": "278",
+        "heb_name": "משגב עם",
+        "eng_name": "MISGAV AM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.64662992076149,
+          33.14113173488496
+        ]
+      },
+      "properties": {
+        "id": "2787283830",
+        "name": "279",
+        "heb_name": "להבות הבשן",
+        "eng_name": "LAHAVOT HABASHAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54030608293735,
+          32.927734310036186
+        ]
+      },
+      "properties": {
+        "id": "2787287732",
+        "name": "280",
+        "heb_name": "עמיעד",
+        "eng_name": "AMMI'AD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44837075033679,
+          32.66664477023969
+        ]
+      },
+      "properties": {
+        "id": "2787289405",
+        "name": "281",
+        "heb_name": "כפר קיש",
+        "eng_name": "KEFAR KISCH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.098902579355716,
+          32.97741742298001
+        ]
+      },
+      "properties": {
+        "id": "2787287275",
+        "name": "282",
+        "heb_name": "רגבה",
+        "eng_name": "REGBA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34882386833636,
+          32.64748389190986
+        ]
+      },
+      "properties": {
+        "id": "2787284255",
+        "name": "283",
+        "heb_name": "דברת",
+        "eng_name": "DAVERAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59608298524377,
+          33.159658277283185
+        ]
+      },
+      "properties": {
+        "id": "2787289449",
+        "name": "284",
+        "heb_name": "נאות מרדכי",
+        "eng_name": "NE'OT MORDEKHAY",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21933038238331,
+          32.99722586976452
+        ]
+      },
+      "properties": {
+        "id": "2787289652",
+        "name": "285",
+        "heb_name": "יחיעם",
+        "eng_name": "YEHI'AM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21451631649519,
+          33.006044687913636
+        ]
+      },
+      "properties": {
+        "id": "2787288142",
+        "name": "286",
+        "heb_name": "געתון",
+        "eng_name": "GA'TON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.168487649283726,
+          32.96027996710789
+        ]
+      },
+      "properties": {
+        "id": "2787284111",
+        "name": "287",
+        "heb_name": "אבו סנאן",
+        "eng_name": "ABU SINAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.343602489308395,
+          32.620690588769314
+        ]
+      },
+      "properties": {
+        "id": "2787287518",
+        "name": "288",
+        "heb_name": "דחי",
+        "eng_name": "DAHI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.323811115498444,
+          32.681252461744954
+        ]
+      },
+      "properties": {
+        "id": "2787288143",
+        "name": "289",
+        "heb_name": "אכסאל",
+        "eng_name": "IKSAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37725270387064,
+          32.963817519567066
+        ]
+      },
+      "properties": {
+        "id": "2787287728",
+        "name": "290",
+        "heb_name": "בית ג'ן",
+        "eng_name": "BEIT JANN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4115144231773,
+          32.8866898908941
+        ]
+      },
+      "properties": {
+        "id": "2787288241",
+        "name": "291",
+        "heb_name": "מגאר",
+        "eng_name": "MUGHAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.36768166062738,
+          32.80743295328549
+        ]
+      },
+      "properties": {
+        "id": "2787283820",
+        "name": "292",
+        "heb_name": "בועיינה-נוג'ידאת",
+        "eng_name": "BU'EINE-NUJEIDAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27244695003109,
+          32.9287800717609
+        ]
+      },
+      "properties": {
+        "id": "2787284300",
+        "name": "293",
+        "heb_name": "בענה",
+        "eng_name": "BI'NE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18267465241642,
+          32.941852954475706
+        ]
+      },
+      "properties": {
+        "id": "2787287535",
+        "name": "294",
+        "heb_name": "ג'ולס",
+        "eng_name": "JULIS",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.444924525746984,
+          33.02217882738773
+        ]
+      },
+      "properties": {
+        "id": "2787289606",
+        "name": "295",
+        "heb_name": "ג'ש (גוש חלב)",
+        "eng_name": "JISH(GUSH HALAV)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37086046472922,
+          32.69097349354604
+        ]
+      },
+      "properties": {
+        "id": "2787284252",
+        "name": "296",
+        "heb_name": "דבורייה",
+        "eng_name": "DABURIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.267426463116166,
+          32.93541906863199
+        ]
+      },
+      "properties": {
+        "id": "2787284265",
+        "name": "297",
+        "heb_name": "דייר אל-אסד",
+        "eng_name": "DEIR AL-ASAD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.367750192244884,
+          32.862409104678704
+        ]
+      },
+      "properties": {
+        "id": "2787289476",
+        "name": "298",
+        "heb_name": "דייר חנא",
+        "eng_name": "DEIR HANNA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05060119335319,
+          32.693306761987834
+        ]
+      },
+      "properties": {
+        "id": "2787289350",
+        "name": "299",
+        "heb_name": "דאלית אל-כרמל",
+        "eng_name": "DALIYAT AL-KARMEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34577366674456,
+          33.017272086385866
+        ]
+      },
+      "properties": {
+        "id": "2787284307",
+        "name": "300",
+        "heb_name": "חורפיש",
+        "eng_name": "HURFEISH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.444269553446695,
+          32.60387490809952
+        ]
+      },
+      "properties": {
+        "id": "2787283718",
+        "name": "301",
+        "heb_name": "טייבה (בעמק)",
+        "eng_name": "TAYIBE(BAEMEQ)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37478650783494,
+          32.77614354215545
+        ]
+      },
+      "properties": {
+        "id": "2787287516",
+        "name": "302",
+        "heb_name": "טורעאן",
+        "eng_name": "TUR'AN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27520412228697,
+          32.6842829599548
+        ]
+      },
+      "properties": {
+        "id": "2787289372",
+        "name": "303",
+        "heb_name": "יפיע",
+        "eng_name": "YAFI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20687429489285,
+          32.95468572565768
+        ]
+      },
+      "properties": {
+        "id": "2787289314",
+        "name": "304",
+        "heb_name": "ירכא",
+        "eng_name": "YIRKA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20801531176691,
+          32.86958479365643
+        ]
+      },
+      "properties": {
+        "id": "2787289653",
+        "name": "305",
+        "heb_name": "כאבול",
+        "eng_name": "KABUL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24798923585257,
+          32.830218409082526
+        ]
+      },
+      "properties": {
+        "id": "2787287486",
+        "name": "306",
+        "heb_name": "כאוכב אבו אל-היג'א",
+        "eng_name": "KAOKAB ABU AL-HIJA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.162362236896584,
+          32.953515471949345
+        ]
+      },
+      "properties": {
+        "id": "2787284018",
+        "name": "307",
+        "heb_name": "כפר יאסיף",
+        "eng_name": "KAFAR YASIF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43967675044828,
+          32.72142232833597
+        ]
+      },
+      "properties": {
+        "id": "2787287531",
+        "name": "308",
+        "heb_name": "כפר כמא",
+        "eng_name": "KAFAR KAMA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.341278169981166,
+          32.74562583943978
+        ]
+      },
+      "properties": {
+        "id": "2787283963",
+        "name": "309",
+        "heb_name": "כפר כנא",
+        "eng_name": "KAFAR KANNA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.259863334658796,
+          32.80956486498029
+        ]
+      },
+      "properties": {
+        "id": "2787287489",
+        "name": "310",
+        "heb_name": "כפר מנדא",
+        "eng_name": "KAFAR MANDA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26089419773015,
+          32.71718473220894
+        ]
+      },
+      "properties": {
+        "id": "2787289775",
+        "name": "311",
+        "heb_name": "עילוט",
+        "eng_name": "ILUT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.421379904357146,
+          32.645233427781086
+        ]
+      },
+      "properties": {
+        "id": "2787287490",
+        "name": "312",
+        "heb_name": "כפר מצר",
+        "eng_name": "KAFAR MISR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25380650374889,
+          32.92068269447049
+        ]
+      },
+      "properties": {
+        "id": "2787289348",
+        "name": "313",
+        "heb_name": "מג'ד אל-כרום",
+        "eng_name": "MAJD AL-KURUM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09877840253679,
+          32.982872440864895
+        ]
+      },
+      "properties": {
+        "id": "2787289459",
+        "name": "314",
+        "heb_name": "מזרעה",
+        "eng_name": "MAZRA'A",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.256445087148286,
+          33.02681774552349
+        ]
+      },
+      "properties": {
+        "id": "2787289787",
+        "name": "315",
+        "heb_name": "מעיליא",
+        "eng_name": "MI'ELYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32242710132955,
+          32.73959453429053
+        ]
+      },
+      "properties": {
+        "id": "2787289603",
+        "name": "316",
+        "heb_name": "משהד",
+        "eng_name": "MESHHED",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31634421216025,
+          32.93441105519824
+        ]
+      },
+      "properties": {
+        "id": "2787284080",
+        "name": "317",
+        "heb_name": "נחף",
+        "eng_name": "NAHEF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34796597076584,
+          32.63084810735721
+        ]
+      },
+      "properties": {
+        "id": "2787289757",
+        "name": "318",
+        "heb_name": "ניין",
+        "eng_name": "NEIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39064047857544,
+          32.61348803202527
+        ]
+      },
+      "properties": {
+        "id": "2787289658",
+        "name": "319",
+        "heb_name": "נאעורה",
+        "eng_name": "NA'URA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.342819892286,
+          32.94186849392979
+        ]
+      },
+      "properties": {
+        "id": "2787287504",
+        "name": "320",
+        "heb_name": "סאג'ור",
+        "eng_name": "SAJUR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33373561559517,
+          32.60567837663218
+        ]
+      },
+      "properties": {
+        "id": "2787283886",
+        "name": "321",
+        "heb_name": "סולם",
+        "eng_name": "SULAM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.352022599474694,
+          32.93280511420649
+        ]
+      },
+      "properties": {
+        "id": "2787284190",
+        "name": "322",
+        "heb_name": "שזור",
+        "eng_name": "SHEZOR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.324981097669124,
+          32.790150654372454
+        ]
+      },
+      "properties": {
+        "id": "2787289512",
+        "name": "323",
+        "heb_name": "עוזייר",
+        "eng_name": "UZEIR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.184475791750316,
+          32.82630197699305
+        ]
+      },
+      "properties": {
+        "id": "2787287485",
+        "name": "324",
+        "heb_name": "אעבלין",
+        "eng_name": "I'BILLIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40102570378452,
+          32.83598681570501
+        ]
+      },
+      "properties": {
+        "id": "2787287549",
+        "name": "325",
+        "heb_name": "עיילבון",
+        "eng_name": "EILABUN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33731644781489,
+          32.85121906153358
+        ]
+      },
+      "properties": {
+        "id": "2787289656",
+        "name": "326",
+        "heb_name": "עראבה",
+        "eng_name": "ARRABE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.352218255565816,
+          32.72180832970604
+        ]
+      },
+      "properties": {
+        "id": "2787289452",
+        "name": "327",
+        "heb_name": "עין מאהל",
+        "eng_name": "EIN MAHEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.065047273956594,
+          32.71596565529027
+        ]
+      },
+      "properties": {
+        "id": "2787283822",
+        "name": "328",
+        "heb_name": "עספיא",
+        "eng_name": "ISIFYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30904688890927,
+          33.048163246628455
+        ]
+      },
+      "properties": {
+        "id": "2787287633",
+        "name": "329",
+        "heb_name": "פסוטה",
+        "eng_name": "FASSUTA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33106591910715,
+          32.978074219469796
+        ]
+      },
+      "properties": {
+        "id": "2787283819",
+        "name": "330",
+        "heb_name": "פקיעין (בוקייעה)",
+        "eng_name": "PEQI'IN (BUQEI'A)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95170881531419,
+          32.597609377361714
+        ]
+      },
+      "properties": {
+        "id": "2787289596",
+        "name": "331",
+        "heb_name": "פוריידיס",
+        "eng_name": "FUREIDIS",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2355783462362,
+          32.88963453455209
+        ]
+      },
+      "properties": {
+        "id": "2787289471",
+        "name": "332",
+        "heb_name": "שעב",
+        "eng_name": "SHA'AB",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31010744841319,
+          32.787603245877825
+        ]
+      },
+      "properties": {
+        "id": "2787283988",
+        "name": "333",
+        "heb_name": "רומאנה",
+        "eng_name": "RUMMANE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4866987565048,
+          33.04905103949463
+        ]
+      },
+      "properties": {
+        "id": "2787289599",
+        "name": "334",
+        "heb_name": "ריחאנייה",
+        "eng_name": "REIHANIYYE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.91106798484304,
+          32.536140372908136
+        ]
+      },
+      "properties": {
+        "id": "2787289457",
+        "name": "335",
+        "heb_name": "ג'סר א-זרקא",
+        "eng_name": "JISR AZ-ZARQA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3109029975581,
+          32.72050664165282
+        ]
+      },
+      "properties": {
+        "id": "2787289677",
+        "name": "336",
+        "heb_name": "ריינה",
+        "eng_name": "REINE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.366381168729745,
+          32.93798101215339
+        ]
+      },
+      "properties": {
+        "id": "2787283906",
+        "name": "337",
+        "heb_name": "ראמה",
+        "eng_name": "RAME",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39871045984105,
+          32.940008813075494
+        ]
+      },
+      "properties": {
+        "id": "2787289609",
+        "name": "338",
+        "heb_name": "עין אל-אסד",
+        "eng_name": "EIN AL-ASAD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40319419651555,
+          32.634154326624724
+        ]
+      },
+      "properties": {
+        "id": "2787289602",
+        "name": "339",
+        "heb_name": "טמרה (יזרעאל)",
+        "eng_name": "TAMRA (YIZRE'EL)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.480713676181225,
+          32.527405574123826
+        ]
+      },
+      "properties": {
+        "id": "2787287603",
+        "name": "340",
+        "heb_name": "שדה נחום",
+        "eng_name": "SEDE NAHUM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52254796945658,
+          32.84717945047835
+        ]
+      },
+      "properties": {
+        "id": "2787272695",
+        "name": "341",
+        "heb_name": "גינוסר",
+        "eng_name": "GINNOSAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.597615891332765,
+          32.68329029468932
+        ]
+      },
+      "properties": {
+        "id": "2787274187",
+        "name": "342",
+        "heb_name": "מסדה",
+        "eng_name": "MASSADA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60337817320544,
+          32.68671662979339
+        ]
+      },
+      "properties": {
+        "id": "2787280962",
+        "name": "343",
+        "heb_name": "שער הגולן",
+        "eng_name": "SHA'AR HAGOLAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55092573429435,
+          32.55897268779229
+        ]
+      },
+      "properties": {
+        "id": "2787272546",
+        "name": "344",
+        "heb_name": "בית יוסף",
+        "eng_name": "BET YOSEF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43976981463296,
+          32.585984150832566
+        ]
+      },
+      "properties": {
+        "id": "2787274172",
+        "name": "345",
+        "heb_name": "מולדת",
+        "eng_name": "MOLEDET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.099640522149365,
+          32.595511532044895
+        ]
+      },
+      "properties": {
+        "id": "2787273975",
+        "name": "346",
+        "heb_name": "עין השופט",
+        "eng_name": "EN HASHOFET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.638250547925345,
+          32.78245146263169
+        ]
+      },
+      "properties": {
+        "id": "2787274173",
+        "name": "347",
+        "heb_name": "עין גב",
+        "eng_name": "EN GEV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11391456972466,
+          32.79588357821005
+        ]
+      },
+      "properties": {
+        "id": "2787272453",
+        "name": "348",
+        "heb_name": "אושה",
+        "eng_name": "USHA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.173694907138426,
+          33.087723037535895
+        ]
+      },
+      "properties": {
+        "id": "2787274162",
+        "name": "349",
+        "heb_name": "חניתה",
+        "eng_name": "HANITA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32185168951447,
+          32.98358342157416
+        ]
+      },
+      "properties": {
+        "id": "2787272142",
+        "name": "350",
+        "heb_name": "פקיעין חדשה",
+        "eng_name": "PEQI'IN HADASHA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08334260907608,
+          32.98141574039172
+        ]
+      },
+      "properties": {
+        "id": "2787272555",
+        "name": "351",
+        "heb_name": "שבי ציון",
+        "eng_name": "SHAVE ZIYYON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14458430510509,
+          32.71961770416383
+        ]
+      },
+      "properties": {
+        "id": "2787272608",
+        "name": "352",
+        "heb_name": "אלונים",
+        "eng_name": "ALLONIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60651319801843,
+          33.23943760909573
+        ]
+      },
+      "properties": {
+        "id": "2787273598",
+        "name": "353",
+        "heb_name": "מעיין ברוך",
+        "eng_name": "MA'YAN BARUKH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.952082728965756,
+          32.676916368550756
+        ]
+      },
+      "properties": {
+        "id": "2787274097",
+        "name": "354",
+        "heb_name": "עין כרמל",
+        "eng_name": "EN KARMEL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.95820341012401,
+          32.76585494589526
+        ]
+      },
+      "properties": {
+        "id": "2787274030",
+        "name": "355",
+        "heb_name": "כפר גלים",
+        "eng_name": "KEFAR GALLIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.169871780419285,
+          32.72904110039001
+        ]
+      },
+      "properties": {
+        "id": "2787278883",
+        "name": "356",
+        "heb_name": "אלוני אבא",
+        "eng_name": "ALLONE ABBA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19009737118099,
+          32.734635657961235
+        ]
+      },
+      "properties": {
+        "id": "2787274653",
+        "name": "357",
+        "heb_name": "בית לחם הגלילית",
+        "eng_name": "BET LEHEM HAGELILIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.48838237784414,
+          33.01651526542921
+        ]
+      },
+      "properties": {
+        "id": "2787272390",
+        "name": "358",
+        "heb_name": "דלתון",
+        "eng_name": "DALTON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09407861806127,
+          32.95104825988283
+        ]
+      },
+      "properties": {
+        "id": "2787274535",
+        "name": "359",
+        "heb_name": "שמרת",
+        "eng_name": "SHAMERAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.92010745113723,
+          32.61316867681875
+        ]
+      },
+      "properties": {
+        "id": "2787278967",
+        "name": "360",
+        "heb_name": "נחשולים",
+        "eng_name": "NAHSHOLIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.956085871985735,
+          32.75207275522962
+        ]
+      },
+      "properties": {
+        "id": "2787289448",
+        "name": "361",
+        "heb_name": "החותרים",
+        "eng_name": "HAHOTERIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4155349705123,
+          32.65699278346144
+        ]
+      },
+      "properties": {
+        "id": "2787289313",
+        "name": "362",
+        "heb_name": "עין דור",
+        "eng_name": "EN DOR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3583107639727,
+          32.548318663099245
+        ]
+      },
+      "properties": {
+        "id": "2787283719",
+        "name": "363",
+        "heb_name": "גדעונה",
+        "eng_name": "GID'ONA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.602730032690424,
+          32.97438370022494
+        ]
+      },
+      "properties": {
+        "id": "2787289650",
+        "name": "364",
+        "heb_name": "כפר הנשיא",
+        "eng_name": "KEFAR HANASI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.03379782081604,
+          32.52344497304681
+        ]
+      },
+      "properties": {
+        "id": "2787287630",
+        "name": "365",
+        "heb_name": "רגבים",
+        "eng_name": "REGAVIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.05704006285279,
+          32.59711891207904
+        ]
+      },
+      "properties": {
+        "id": "2787287427",
+        "name": "366",
+        "heb_name": "רמות מנשה",
+        "eng_name": "RAMOT MENASHE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32034120193481,
+          32.56178619660456
+        ]
+      },
+      "properties": {
+        "id": "2787284259",
+        "name": "367",
+        "heb_name": "יזרעאל",
+        "eng_name": "YIZRE'EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55095851469745,
+          33.128351674466494
+        ]
+      },
+      "properties": {
+        "id": "2787287358",
+        "name": "368",
+        "heb_name": "יפתח",
+        "eng_name": "YIFTAH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10803545026621,
+          33.02932493554901
+        ]
+      },
+      "properties": {
+        "id": "2787284005",
+        "name": "369",
+        "heb_name": "סער",
+        "eng_name": "SA'AR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44628095123036,
+          32.63879475400101
+        ]
+      },
+      "properties": {
+        "id": "2787289725",
+        "name": "370",
+        "heb_name": "גזית",
+        "eng_name": "GAZIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08142673391916,
+          32.95120775444468
+        ]
+      },
+      "properties": {
+        "id": "2787289604",
+        "name": "371",
+        "heb_name": "בוסתן הגליל",
+        "eng_name": "BUSTAN HAGALIL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.260559223845455,
+          33.01608612017428
+        ]
+      },
+      "properties": {
+        "id": "2787289517",
+        "name": "372",
+        "heb_name": "מעונה",
+        "eng_name": "ME'ONA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.143377428059786,
+          32.97111736018883
+        ]
+      },
+      "properties": {
+        "id": "2787289518",
+        "name": "373",
+        "heb_name": "בית העמק",
+        "eng_name": "BET HAEMEQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.11105494426172,
+          33.03855127240888
+        ]
+      },
+      "properties": {
+        "id": "2787284059",
+        "name": "374",
+        "heb_name": "גשר הזיו",
+        "eng_name": "GESHER HAZIW",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.16468527485264,
+          32.90076787120608
+        ]
+      },
+      "properties": {
+        "id": "2787289474",
+        "name": "375",
+        "heb_name": "יסעור",
+        "eng_name": "YAS'UR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14830919004046,
+          33.02103620370289
+        ]
+      },
+      "properties": {
+        "id": "2787290210",
+        "name": "376",
+        "heb_name": "כברי",
+        "eng_name": "KABRI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.393441998611195,
+          33.02694702442249
+        ]
+      },
+      "properties": {
+        "id": "2787287637",
+        "name": "377",
+        "heb_name": "סאסא",
+        "eng_name": "SASA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.113757469745124,
+          33.08600771229919
+        ]
+      },
+      "properties": {
+        "id": "2787287731",
+        "name": "378",
+        "heb_name": "כפר ראש הנקרה",
+        "eng_name": "KEFAR ROSH HANIQRA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.98977209070625,
+          32.64566989413114
+        ]
+      },
+      "properties": {
+        "id": "2787289610",
+        "name": "379",
+        "heb_name": "כרם מהר\"ל",
+        "eng_name": "KEREM MAHARAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.439115971382954,
+          32.98701584349423
+        ]
+      },
+      "properties": {
+        "id": "2787289549",
+        "name": "380",
+        "heb_name": "מירון",
+        "eng_name": "MERON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43817560709308,
+          33.01180445961067
+        ]
+      },
+      "properties": {
+        "id": "2787270781",
+        "name": "381",
+        "heb_name": "כפר חושן",
+        "eng_name": "KEFAR HOSHEN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.94672791244829,
+          32.64812271242539
+        ]
+      },
+      "properties": {
+        "id": "2787281056",
+        "name": "382",
+        "heb_name": "צרופה",
+        "eng_name": "ZERUFA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27780218962839,
+          32.74507488194108
+        ]
+      },
+      "properties": {
+        "id": "2787270729",
+        "name": "383",
+        "heb_name": "ציפורי",
+        "eng_name": "ZIPPORI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28307204521926,
+          33.08275199561179
+        ]
+      },
+      "properties": {
+        "id": "2787270639",
+        "name": "384",
+        "heb_name": "שומרה",
+        "eng_name": "SHOMERA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45455180203124,
+          33.077052989193895
+        ]
+      },
+      "properties": {
+        "id": "2787274617",
+        "name": "385",
+        "heb_name": "יראון",
+        "eng_name": "YIR'ON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.322610759546365,
+          32.52227000604062
+        ]
+      },
+      "properties": {
+        "id": "2787272452",
+        "name": "386",
+        "heb_name": "צנדלה",
+        "eng_name": "SANDALA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24263763142145,
+          32.6778227541584
+        ]
+      },
+      "properties": {
+        "id": "2787274202",
+        "name": "387",
+        "heb_name": "מגדל העמק",
+        "eng_name": "MIGDAL HAEMEQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.10829350366511,
+          32.71169611447613
+        ]
+      },
+      "properties": {
+        "id": "2787272209",
+        "name": "388",
+        "heb_name": "אורנים",
+        "eng_name": "ORANIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.086816019976965,
+          32.749504491484075
+        ]
+      },
+      "properties": {
+        "id": "2787272496",
+        "name": "389",
+        "heb_name": "כפר חסידים ב'",
+        "eng_name": "KEFAR HASIDIM BET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0975693002386,
+          32.742661155603855
+        ]
+      },
+      "properties": {
+        "id": "2787272531",
+        "name": "390",
+        "heb_name": "כפר הנוער הדתי",
+        "eng_name": "KEFAR HANO'AR HADATI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1793082165247,
+          33.047699560869816
+        ]
+      },
+      "properties": {
+        "id": "2787279349",
+        "name": "391",
+        "heb_name": "עבדון",
+        "eng_name": "AVDON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.53661624792385,
+          32.74379973399889
+        ]
+      },
+      "properties": {
+        "id": "2787272146",
+        "name": "392",
+        "heb_name": "פורייה - נווה עובד",
+        "eng_name": "PORIYYA-NEWE OVED",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.241843622526545,
+          32.56300626742335
+        ]
+      },
+      "properties": {
+        "id": "2787279165",
+        "name": "393",
+        "heb_name": "אומן",
+        "eng_name": "OMEN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.263428179058636,
+          32.54744307833263
+        ]
+      },
+      "properties": {
+        "id": "2787270669",
+        "name": "394",
+        "heb_name": "חבר",
+        "eng_name": "HEVER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.271202072294486,
+          32.83699795661734
+        ]
+      },
+      "properties": {
+        "id": "2787274205",
+        "name": "395",
+        "heb_name": "יודפת",
+        "eng_name": "YODEFAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.471089331293435,
+          33.08826237046621
+        ]
+      },
+      "properties": {
+        "id": "2787279356",
+        "name": "396",
+        "heb_name": "אביבים",
+        "eng_name": "AVIVIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30740265826937,
+          32.55152669863056
+        ]
+      },
+      "properties": {
+        "id": "2787274378",
+        "name": "397",
+        "heb_name": "יעל",
+        "eng_name": "YA'EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60167966904015,
+          32.911738993463985
+        ]
+      },
+      "properties": {
+        "id": "2787279215",
+        "name": "398",
+        "heb_name": "אלמגור",
+        "eng_name": "ALMAGOR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28765066443932,
+          33.09970920227714
+        ]
+      },
+      "properties": {
+        "id": "2787274656",
+        "name": "399",
+        "heb_name": "כפר רוזנואלד (זרעית)",
+        "eng_name": "KEFAR ROZENWALD(ZARIT)",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.677059915964165,
+          33.241578911947805
+        ]
+      },
+      "properties": {
+        "id": "2787274320",
+        "name": "400",
+        "heb_name": "שניר",
+        "eng_name": "SENIR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.241847234496156,
+          32.87892978834092
+        ]
+      },
+      "properties": {
+        "id": "2787279062",
+        "name": "401",
+        "heb_name": "יעד",
+        "eng_name": "YA'AD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.291011801719094,
+          32.9106447912177
+        ]
+      },
+      "properties": {
+        "id": "2787272492",
+        "name": "402",
+        "heb_name": "כרמיאל",
+        "eng_name": "KARMI'EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12050163157079,
+          32.96578418409207
+        ]
+      },
+      "properties": {
+        "id": "2787270710",
+        "name": "403",
+        "heb_name": "נס עמים",
+        "eng_name": "NES AMMIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32279396577328,
+          33.06433580428424
+        ]
+      },
+      "properties": {
+        "id": "2787270728",
+        "name": "404",
+        "heb_name": "נטועה",
+        "eng_name": "NETU'A",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24931824206078,
+          32.945706018153395
+        ]
+      },
+      "properties": {
+        "id": "2787270638",
+        "name": "405",
+        "heb_name": "כישור",
+        "eng_name": "KISHOR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24611809888514,
+          32.84855950252309
+        ]
+      },
+      "properties": {
+        "id": "2787272206",
+        "name": "406",
+        "heb_name": "שכניה",
+        "eng_name": "SHEKHANYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.327424735477514,
+          32.78166327365717
+        ]
+      },
+      "properties": {
+        "id": "2787274189",
+        "name": "407",
+        "heb_name": "בית רימון",
+        "eng_name": "BET RIMMON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.39301396985664,
+          32.92125359603307
+        ]
+      },
+      "properties": {
+        "id": "2787274002",
+        "name": "408",
+        "heb_name": "מורן",
+        "eng_name": "MORAN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35670534413228,
+          32.88252165489797
+        ]
+      },
+      "properties": {
+        "id": "2787278916",
+        "name": "409",
+        "heb_name": "לוטם",
+        "eng_name": "LOTEM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24401713042768,
+          32.92856687010534
+        ]
+      },
+      "properties": {
+        "id": "2787279314",
+        "name": "410",
+        "heb_name": "תובל",
+        "eng_name": "TUVAL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.26112180789975,
+          32.95852308555026
+        ]
+      },
+      "properties": {
+        "id": "2787272210",
+        "name": "411",
+        "heb_name": "לפידות",
+        "eng_name": "LAPPIDOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.235896716041616,
+          32.852926674708236
+        ]
+      },
+      "properties": {
+        "id": "2787274096",
+        "name": "412",
+        "heb_name": "מנוף",
+        "eng_name": "MANOF",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23217064788937,
+          32.82564228865666
+        ]
+      },
+      "properties": {
+        "id": "2787279069",
+        "name": "413",
+        "heb_name": "מורשת",
+        "eng_name": "MORESHET",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25192648870099,
+          32.84337270144025
+        ]
+      },
+      "properties": {
+        "id": "2787272212",
+        "name": "414",
+        "heb_name": "קורנית",
+        "eng_name": "QORANIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.331014425646536,
+          32.889330960094725
+        ]
+      },
+      "properties": {
+        "id": "2787274312",
+        "name": "415",
+        "heb_name": "צביה",
+        "eng_name": "ZVIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17773919729006,
+          32.925513543221776
+        ]
+      },
+      "properties": {
+        "id": "2787270671",
+        "name": "416",
+        "heb_name": "טל-אל",
+        "eng_name": "TAL-EL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.218618108655605,
+          32.75649308871582
+        ]
+      },
+      "properties": {
+        "id": "2787274811",
+        "name": "417",
+        "heb_name": "אלון הגליל",
+        "eng_name": "ALLON HAGALIL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.19658341776845,
+          32.98021193447762
+        ]
+      },
+      "properties": {
+        "id": "2787279168",
+        "name": "418",
+        "heb_name": "כליל",
+        "eng_name": "KELIL",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35684828935604,
+          33.04070236360213
+        ]
+      },
+      "properties": {
+        "id": "2787270694",
+        "name": "419",
+        "heb_name": "מתת",
+        "eng_name": "MATTAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.23264253714743,
+          32.93345705790195
+        ]
+      },
+      "properties": {
+        "id": "2787279132",
+        "name": "420",
+        "heb_name": "פלך",
+        "eng_name": "PELEKH",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290800282355775,
+          32.7583938287111
+        ]
+      },
+      "properties": {
+        "id": "2787281053",
+        "name": "421",
+        "heb_name": "הושעיה",
+        "eng_name": "HOSHA'AYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2999961997692,
+          32.88546320180846
+        ]
+      },
+      "properties": {
+        "id": "2787273974",
+        "name": "422",
+        "heb_name": "אשחר",
+        "eng_name": "ESHHAR",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.38484032286822,
+          32.8022517107344
+        ]
+      },
+      "properties": {
+        "id": "2787278894",
+        "name": "423",
+        "heb_name": "מצפה נטופה",
+        "eng_name": "MIZPE NETOFA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44834434180519,
+          32.99696160460261
+        ]
+      },
+      "properties": {
+        "id": "2787273976",
+        "name": "424",
+        "heb_name": "בר יוחאי",
+        "eng_name": "BAR YOHAY",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.17316035264166,
+          32.781854899658136
+        ]
+      },
+      "properties": {
+        "id": "2787272141",
+        "name": "425",
+        "heb_name": "עדי",
+        "eng_name": "ADI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.359246128312726,
+          32.91178721570797
+        ]
+      },
+      "properties": {
+        "id": "2787279347",
+        "name": "426",
+        "heb_name": "כמון",
+        "eng_name": "KAMMON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.32574751265225,
+          32.90637802139213
+        ]
+      },
+      "properties": {
+        "id": "2787272495",
+        "name": "427",
+        "heb_name": "מכמנים",
+        "eng_name": "MIKHMANNIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.365902980012315,
+          32.845315447209394
+        ]
+      },
+      "properties": {
+        "id": "2787272607",
+        "name": "428",
+        "heb_name": "הררית",
+        "eng_name": "HARARIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.236331086836366,
+          32.902609605884926
+        ]
+      },
+      "properties": {
+        "id": "2787272145",
+        "name": "429",
+        "heb_name": "גילון",
+        "eng_name": "GILON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.193912649861055,
+          33.038270243858065
+        ]
+      },
+      "properties": {
+        "id": "2787278927",
+        "name": "430",
+        "heb_name": "מנות",
+        "eng_name": "MANOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24825920264026,
+          32.96672448889122
+        ]
+      },
+      "properties": {
+        "id": "2787279389",
+        "name": "431",
+        "heb_name": "גיתה",
+        "eng_name": "GITTA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.286176958107475,
+          32.94218885238967
+        ]
+      },
+      "properties": {
+        "id": "2787274239",
+        "name": "432",
+        "heb_name": "לבון",
+        "eng_name": "LAVON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243572601429754,
+          33.036055501390656
+        ]
+      },
+      "properties": {
+        "id": "2787278965",
+        "name": "433",
+        "heb_name": "הילה",
+        "eng_name": "HILLA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14493146977245,
+          32.75895940740061
+        ]
+      },
+      "properties": {
+        "id": "2787272500",
+        "name": "434",
+        "heb_name": "נופית",
+        "eng_name": "NOFIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.60723280816697,
+          32.92940304079264
+        ]
+      },
+      "properties": {
+        "id": "2787272391",
+        "name": "435",
+        "heb_name": "כרכום",
+        "eng_name": "KARKOM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.244693442527904,
+          32.721113414008045
+        ]
+      },
+      "properties": {
+        "id": "2787274314",
+        "name": "436",
+        "heb_name": "גבעת אלה",
+        "eng_name": "GIV'AT ELA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14611142558984,
+          32.92906440670652
+        ]
+      },
+      "properties": {
+        "id": "2787274813",
+        "name": "437",
+        "heb_name": "ג'דיידה-מכר",
+        "eng_name": "JUDEIDE-MAKER",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43822772280394,
+          32.77519365746569
+        ]
+      },
+      "properties": {
+        "id": "2787278887",
+        "name": "438",
+        "heb_name": "גבעת אבני",
+        "eng_name": "GIV'AT AVNI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44627972632353,
+          33.004990460798794
+        ]
+      },
+      "properties": {
+        "id": "2787272744",
+        "name": "439",
+        "heb_name": "אור הגנוז",
+        "eng_name": "OR HAGANUZ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2442648111101,
+          32.98030504506894
+        ]
+      },
+      "properties": {
+        "id": "2787274316",
+        "name": "440",
+        "heb_name": "יאנוח-ג'ת",
+        "eng_name": "YANUH-JAT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30334790772088,
+          32.968496399392386
+        ]
+      },
+      "properties": {
+        "id": "2787284051",
+        "name": "441",
+        "heb_name": "כסרא-סמיע",
+        "eng_name": "KISRA-SUMEI",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42259031709566,
+          32.914641263639105
+        ]
+      },
+      "properties": {
+        "id": "2787287515",
+        "name": "442",
+        "heb_name": "כפר חנניה",
+        "eng_name": "KEFAR HANANYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.545889389127574,
+          32.73012304959637
+        ]
+      },
+      "properties": {
+        "id": "2787284245",
+        "name": "443",
+        "heb_name": "פורייה עילית",
+        "eng_name": "PORIYYA ILLIT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18309263285499,
+          33.026565227063195
+        ]
+      },
+      "properties": {
+        "id": "2787289394",
+        "name": "444",
+        "heb_name": "נווה זיו",
+        "eng_name": "NEWE ZIV",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22694569236806,
+          32.81500331040753
+        ]
+      },
+      "properties": {
+        "id": "2787287517",
+        "name": "445",
+        "heb_name": "דמיידה",
+        "eng_name": "DEMEIDE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.99911107095536,
+          32.69115907861656
+        ]
+      },
+      "properties": {
+        "id": "2787283957",
+        "name": "446",
+        "heb_name": "עין חוד",
+        "eng_name": "EIN HOD",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.135958979882645,
+          32.769910532222156
+        ]
+      },
+      "properties": {
+        "id": "2787284045",
+        "name": "447",
+        "heb_name": "ח'ואלד",
+        "eng_name": "KHAWALED",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.43446146091054,
+          32.78821215007129
+        ]
+      },
+      "properties": {
+        "id": "2787287487",
+        "name": "448",
+        "heb_name": "הודיות",
+        "eng_name": "HODAYOT",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.103889373518705,
+          32.52994095251366
+        ]
+      },
+      "properties": {
+        "id": "2787284017",
+        "name": "449",
+        "heb_name": "בסמ\"ה",
+        "eng_name": "BASMA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.155087853731715,
+          32.551189366947526
+        ]
+      },
+      "properties": {
+        "id": "2787283985",
+        "name": "450",
+        "heb_name": "מעלה עירון",
+        "eng_name": "MA'ALE IRON",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.33743351420281,
+          32.64253700224344
+        ]
+      },
+      "properties": {
+        "id": "2787283823",
+        "name": "451",
+        "heb_name": "אחוזת ברק",
+        "eng_name": "AHUZZAT BARAQ",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35009736403411,
+          32.91284415589564
+        ]
+      },
+      "properties": {
+        "id": "2787289470",
+        "name": "452",
+        "heb_name": "כמאנה",
+        "eng_name": "KAMANE",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.319614241812516,
+          32.89990972534219
+        ]
+      },
+      "properties": {
+        "id": "2787289542",
+        "name": "453",
+        "heb_name": "חוסנייה",
+        "eng_name": "HUSSNIYYA",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37178938619797,
+          32.91396214903989
+        ]
+      },
+      "properties": {
+        "id": "2787289607",
+        "name": "454",
+        "heb_name": "ראס אל-עין",
+        "eng_name": "RAS AL-EIN",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.28954680622116,
+          32.887742993775355
+        ]
+      },
+      "properties": {
+        "id": "2787284253",
+        "name": "455",
+        "heb_name": "ערב אל נעים",
+        "eng_name": "ARAB AL NAIM",
+        "muni_mirror": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24597872823327,
+          32.73243847714905
+        ]
+      },
+      "properties": {
+        "id": "2787289544",
+        "name": "456",
+        "heb_name": "שמשית",
+        "eng_name": "SHIMSHIT",
+        "muni_mirror": ""
+      }
+    }
+  ]
+}
