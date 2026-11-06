@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "node-fetch": "^3.3.2",
-    "proj4": "^2.20.2",
-    "wellknown": "^0.5.0"
-  }
-}
